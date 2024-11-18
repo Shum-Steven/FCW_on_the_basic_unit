@@ -1,0 +1,15 @@
+/Users/stepanshumilin/Desktop/IT_GB/1St_semester/ИКР/bin/Debug/net9.0/ИКР
+/Users/stepanshumilin/Desktop/IT_GB/1St_semester/ИКР/bin/Debug/net9.0/ИКР.deps.json
+/Users/stepanshumilin/Desktop/IT_GB/1St_semester/ИКР/bin/Debug/net9.0/ИКР.runtimeconfig.json
+/Users/stepanshumilin/Desktop/IT_GB/1St_semester/ИКР/bin/Debug/net9.0/ИКР.dll
+/Users/stepanshumilin/Desktop/IT_GB/1St_semester/ИКР/bin/Debug/net9.0/ИКР.pdb
+/Users/stepanshumilin/Desktop/IT_GB/1St_semester/ИКР/obj/Debug/net9.0/ИКР.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stepanshumilin/Desktop/IT_GB/1St_semester/ИКР/obj/Debug/net9.0/ИКР.AssemblyInfoInputs.cache
+/Users/stepanshumilin/Desktop/IT_GB/1St_semester/ИКР/obj/Debug/net9.0/ИКР.AssemblyInfo.cs
+/Users/stepanshumilin/Desktop/IT_GB/1St_semester/ИКР/obj/Debug/net9.0/ИКР.csproj.CoreCompileInputs.cache
+/Users/stepanshumilin/Desktop/IT_GB/1St_semester/ИКР/obj/Debug/net9.0/ИКР.dll
+/Users/stepanshumilin/Desktop/IT_GB/1St_semester/ИКР/obj/Debug/net9.0/refint/ИКР.dll
+/Users/stepanshumilin/Desktop/IT_GB/1St_semester/ИКР/obj/Debug/net9.0/ИКР.pdb
+/Users/stepanshumilin/Desktop/IT_GB/1St_semester/ИКР/obj/Debug/net9.0/ИКР.genruntimeconfig.cache
+/Users/stepanshumilin/Desktop/IT_GB/1St_semester/ИКР/obj/Debug/net9.0/ref/ИКР.dll
+/Users/stepanshumilin/Desktop/IT_GB/1St_semester/ИКР/obj/Debug/net9.0/ИКР.sourcelink.json

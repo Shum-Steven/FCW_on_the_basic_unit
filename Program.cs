@@ -15,6 +15,32 @@ void Main()
     PrintArray(resultArray, "Результат:");
 }
 
+string[] FilterArray(string[] inputArray)
+{
+    // Сначала подсчитаем количество строк, удовлетворяющих условие
+    int count = 0;
+    for (int i = 0; i < inputArray.Length; i++)
+    {
+        if(inputArray[i].Length <= 3)
+        {
+            count++;
+        }
+    }
+    // создаём новый массив нужного размера
+    string[] resultArray = new string[count];
+    int index = 0;
+    // Заполняем массив строками, длина которых <= 3
+    for (int i = 0; i < inputArray.Length; i++)
+    {
+        if (inputArray[i].Length <= 3)
+        {
+            resultArray[index] = inputArray[i];
+            index++;
+        }
+    }
+    return resultArray;
+}
+
 string[] CreateArray()
 {
     Console.WriteLine("Выберите способ создания массива:");
@@ -40,7 +66,7 @@ string[] InputArray()
     for (int i = 0; i < size; i++)
     {
         Console.WriteLine($"Введите строку {i + 1}: ");
-        tempArray[i] = Console.ReadLine():
+        tempArray[i] = Console.ReadLine() ?? string.Empty; // Возможность ввода строковых значений, с проверкой на Null
     }
     return tempArray;
 }
@@ -48,7 +74,7 @@ string[] InputArray()
 void PrintArray(string[] arr, string message)
 {
     Console.WriteLine(message);
-    Console.WriteLine("[");
+    Console.Write("[");
     for (int i = 0; i < arr.Length; i++)
     {
         Console.Write($"\"{arr[i]}\"");
